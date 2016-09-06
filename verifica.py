@@ -1,0 +1,1 @@
+#verifica disponibilidade dos dados
